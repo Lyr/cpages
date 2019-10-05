@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: "ValidateRA" 
+description: "Validation automatisée"
 logo: /images/sowa-1136025_1280.jpg
+show_downloads: false
+google_analytics: UA-10345295-4
+
