@@ -4,4 +4,9 @@ description: "Validation automatisée"
 logo: /images/128px-Zaaguil_Aegolius_acadicus_Jos_Zwarts.jpg
 show_downloads: false
 google_analytics: UA-10345295-4
+social-network-links:
+  rss: true
+  email: "yann.lopik@gmail.com"
+author:
+  name: Some Person
 
