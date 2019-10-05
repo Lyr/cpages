@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: "ValidateRA" 
+name: "ValidateRA Page" 
 description: "Validation automatisée"
 logo: /images/128px-Zaaguil_Aegolius_acadicus_Jos_Zwarts.jpg
 show_downloads: false
